@@ -86,3 +86,5 @@ anyio==3.6.2
  webencodings==0.5.1
  websocket-client==1.4.1
  widgetsnbextension==4.0.3
+ coremltools==6.1
+
